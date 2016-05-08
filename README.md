@@ -57,6 +57,10 @@
 - 如何让Node.js执行一个js文件
   `node 文件名`
 
+-绝对路径和相对路径
+  `./和../  相对路径 `
+  `c:\foo\foo.js 绝对路径 `
+
 
 ## 1.6 global
 - __dirname和__filename
