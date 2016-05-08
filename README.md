@@ -42,21 +42,25 @@
 ## 1.4 path 环境变量
 - path环境变量的作用是什么？
 - 在Windows中配置path环境变量的方法是什么？  
+
 ## 1.5 REPL（Read Eval Print Loop）运行环境
+
 - 作用：一般来说，可以用来做一些API的测试
+
 - 进入REPL运行环境
-  ```在控制台中输入node命令直接敲回车```
+  `在控制台中输入node命令直接敲回车`
+  
 - 退出REPL运行环境
-  ``` 1.Ctrl+c 两次 2..exit ```
+  ` 1.Ctrl+c 两次 2..exit `
 
 ## 1.6 Node.js基础知识
 - 如何让Node.js执行一个js文件
-  ```node 文件名```
+  `node 文件名`
 
 
 ## 1.6 global
 - __dirname和__filename
-  ``` 关于这俩家伙，一般在读取文件的时候，最好使用绝对路径的方式，通过这俩家伙拼接 ```
+  ` 关于这俩家伙，一般在读取文件的时候，最好使用绝对路径的方式，通过这俩家伙拼接 `
 - setTimeout和clearTimeout
 - setInterval和clearInterval
 - console
